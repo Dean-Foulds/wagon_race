@@ -1,0 +1,19 @@
+.bus_padding {
+  padding-top: 100px;
+}
+
+.img {
+  position: absolute;
+  width: 100px;
+  z-index: 1;
+}
+
+#sidebar {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    width: 200px;
+    background-image: url("images/flag.png");
+    z-index: -1;
+}
